@@ -46,7 +46,7 @@ img, .contact-info, .student-info, .student-p {
 
 .contact-info {
     position: relative;
-    height: 200px;
+    height: 100%;
     margin-left: 50px;
     top: -149px;
 }
