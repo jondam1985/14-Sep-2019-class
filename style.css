@@ -1,0 +1,52 @@
+body {
+    margin: 0 auto;
+    padding: 0;
+    width: 75vw;
+}
+
+h1 {
+    margin-top: 0;
+    margin-bottom: 0;
+    box-sizing: border-box;
+    background-color:black;
+    color: white;
+    height: 75px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.info-container {
+    margin-top: 0;
+    background-color: lightgrey;
+    box-sizing: border-box;
+    padding: 20px;
+}
+
+h2 {
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+.student-p {
+    width: 500px;
+    height: 200px;
+    box-sizing: border-box;
+    margin-left: 30px;
+    margin-top: 0;
+    vertical-align: text-bottom;
+}
+
+p {
+    margin-top:0;
+}
+
+img, .contact-info, .student-info, .student-p {
+    display: inline-block;
+}
+
+.contact-info {
+    position: relative;
+    height: 200px;
+    margin-left: 50px;
+    top: -149px;
+}
